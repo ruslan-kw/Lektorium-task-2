@@ -155,7 +155,7 @@ input:invalid:not(:placeholder-shown) + .form__error {
 .custom-checkbox>input:checked+span::before {
   border-color: #565B6B;
   background-color: #225DC1;
-  content: 'v';
+  content: '✓';
   font-size: 1.175em;
   color: white;
   line-height: 1;
